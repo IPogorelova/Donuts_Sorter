@@ -1,0 +1,41 @@
+
+
+h1 {
+    color: #333333;
+}
+
+img {
+    max-width: 100px;
+}
+
+input {
+    display: block;
+}
+
+#wrapper {
+    width: 60vw;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    border: 1px solid #e7e7e7;
+    margin-bottom: 20px;
+}
+
+.filters {
+    border: none;
+}
+
+.item {
+    width: 200px;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*# sourceMappingURL=styles.css.map */

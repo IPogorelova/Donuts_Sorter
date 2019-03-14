@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="dist/css/styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <h1>Donuts</h1>
+    <div class="filters container">
+        <input type="checkbox" id="withSprinkles" class="sprinkles" name="sprinkles" value="sprinkles"
+               checked>
+        <label for="withSprinkles">with sprinkles</label>
+        <input type="checkbox" id="withoutSprinkles" class="sprinkles" name="sprinkles" value="-"
+               checked>
+        <label for="withoutSprinkles">without sprinkles</label>
+    </div>
+    <div class="container" id="donutsBox">
+    </div>
+    <button onclick="loadDonuts()" id="loadDonutsButton">Show donuts!</button>
+</div>
+<!--<button onclick="loadDonuts()" id="parseDonuts">Show donuts!</button>-->
+</body>
+</html>

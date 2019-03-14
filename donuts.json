@@ -1,0 +1,56 @@
+[
+  {
+    "taste": "chocolate",
+    "filling": "chocolate",
+    "additions": "sprinkles",
+    "imgUrl": "dist/images/choc-spr.jpg"
+  },
+  {
+    "taste": "chocolate",
+    "filling": "vanilla",
+    "additions": "sprinkles",
+    "imgUrl": "dist/images/choc-spr.jpg"
+  },
+  {
+    "taste": "chocolate",
+    "filling": "berry",
+    "additions": "-",
+    "imgUrl": "dist/images/choc-choc.jpg"
+  },
+  {
+    "taste": "vanilla",
+    "filling": "chocolate",
+    "additions": "sprinkles",
+    "imgUrl": "dist/images/van-spr.jpg"
+  },
+  {
+    "taste": "vanilla",
+    "filling": "vanilla",
+    "additions": "-",
+    "imgUrl": "dist/images/van-van.jpg"
+  },
+  {
+    "taste": "vanilla",
+    "filling": "berry",
+    "additions": "-",
+    "imgUrl": "dist/images/van-van.jpg"
+  },
+  {
+    "taste": "berry",
+    "filling": "chocolate",
+    "additions": "-",
+    "imgUrl": "dist/images/berry-berry.jpg"
+  },
+  {
+    "taste": "berry",
+    "filling": "vanilla",
+    "additions": "sprinkles",
+    "imgUrl": "dist/images/berry-spr.jpg"
+  },
+  {
+    "taste": "berry",
+    "filling": "berry",
+    "additions": "sprinkles",
+    "imgUrl": "dist/images/berry-spr.jpg"
+  }
+]
